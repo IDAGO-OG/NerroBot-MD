@@ -1,4 +1,4 @@
-
+/*
 
 
 const handler = async (m, {conn, usedPrefix}) => {
@@ -65,3 +65,5 @@ handler.help = ['owner', 'creator'];
 handler.tags = ['info'];
 handler.command = /^(owner|creator|creador|propietario)$/i;
 export default handler;
+
+*/
