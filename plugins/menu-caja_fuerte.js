@@ -12,7 +12,7 @@ const handler = async (m, {conn, usedPrefix}) => {
     const name = await conn.getName(m.sender);
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const str = `
-*ミ💖 ${tradutor.texto1[0]} ${taguser} 💖彡*
+*ミ☆ ${tradutor.texto1[0]} ${taguser} ☆彡*
 
 ㅤㅤ ${tradutor.texto1[1]}
 
