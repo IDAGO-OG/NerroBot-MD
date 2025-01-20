@@ -1,5 +1,5 @@
 <p align="center">
- <img width="180px" src="https://i.ibb.co/Qn1W6cP/image.png" align="center"/>
+ <img width="180px" src="2cec17859f8bd38d8e7bf12be7e1c354.jpg" align="center"/>
  <h2 align="center">TheMystic-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
