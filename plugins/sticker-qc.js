@@ -31,5 +31,5 @@ let text
 }
 handler.help = ['qc'];
 handler.tags = ['sticker'];
-handler.command = /^(qc)$/i;
+handler.command = /^(qc|♡|☆)$/i;
 export default handler;
