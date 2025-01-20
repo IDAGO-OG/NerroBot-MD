@@ -1,9 +1,12 @@
+# `☆▪︎▪︎ The Nerro - 𝙱𝚘𝚝 🐈‍⬛ ▪︎▪︎☆`
+
 <p align="center">
  <img width="180px" src="2cec17859f8bd38d8e7bf12be7e1c354.jpg" align="center"/>
  <h2 align="center">Nerro-Bot-MD</h2>
  <p align="center">Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.</p>
 </p>
 
+## '<a href="https://github.com/IDAGO-OG/NerroBot-MD"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&letterSpacing=-1xp;&pause=1000&color=F76B1C&center=FALSO&vCenter=FALSO&multiline=true&repeat=verdadero&random=FALSO&height=70&lines=BIENVENIDO+A+NerroBot+%F0%9F%90%88%E2%80%8D%E2%AC%9B;GRACIAS+POR+VISITARME+%E2%99%A1" alt="Typing SVG" /></a>'
 
 <p align="center">
   <a href="https://api.whatsapp.com/send?phone=+584121275155&text=&text=.menu">Demo</a>
@@ -28,9 +31,26 @@
 
 </details>
 
-
+### `▪︎▪︎▪︎☆ ACTIVAR EN TERMUX ☆▪︎▪︎▪︎`
+```bash
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+▪︎ cd
+▪︎ termux-setup-storage
+▪︎ apt update 
+▪︎ pkg upgrade 
+▪︎ pkg install git -y
+▪︎ pkg install nodejs -y
+▪︎ pkg install ffmpeg -y
+▪︎ pkg install imagemagick -y
+▪︎ pkg install yarn
+▪︎ git clone https://github.com/IDAGO-OG/Dagos-Bot-MD
+▪︎ cd Dagos-Bot-MD
+▪︎ yarn install 
+▪︎ npm update
+▪︎ npm start
+```
  
-## Despliegue en Otros
+## ▪︎▪︎▪︎☆ Despliegue en Otros
 
 En esta sección encontrarás **botones de despliegue** que te permitirán implementar el proyecto en distintos entornos con un solo clic. Este proceso es **automático** y no requiere configuraciones manuales adicionales. Simplemente selecciona la plataforma deseada y haz clic en el botón correspondiente para **desplegar** tu proyecto de manera rápida y sencilla.
 
@@ -55,18 +75,12 @@ En este espacio podrás encontrar diversas **comunidades de ayuda** donde podrá
 
 </table>
 
-## Colaboradores
+## ▪︎▪︎☆ Desarollador Principal
 
-Conoce a los **colaboradores** que han aportado al desarrollo de este proyecto. Su apoyo ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
+Conoce a al **Desarrollador** que ha aportado al desarrollo de este proyecto. Su aporte ha sido clave para **mejorar** y **expandir** las funcionalidades del proyecto.
 
-<a href="https://github.com/IDAGO-OG/NerroBot-MD//graphs/contributors">
-  <img src="https://github.com/IDAGO-OG/NerroBot-MD/blob/master/2cec17859f8bd38d8e7bf12be7e1c354.jpg?repo=IDAGO-OG/Nerro-Bot-MD" /> 
+<a href="https://github.com/IDAGO-OG/NerroBot-MD//graphs/contributors">  <img src="https://github.com/IDAGO-OG/NerroBot-MD/blob/master/2cec17859f8bd38d8e7bf12be7e1c354.jpg?repo=IDAGO-OG/Nerro-Bot-MD" /> 
 </a>
 
+#### `TheDagos-Bot-MD ~ By Diego-OG`
 
-
-## Desarollador Principal
-
-<a href="https://github.com/IDAGO-OG">
-  <img src="https://i.ibb.co/Qn1W6cP/image.png" width="180px"/>
-</a>
