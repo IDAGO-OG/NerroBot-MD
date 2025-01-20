@@ -3,7 +3,7 @@ import axios from 'axios';
 let previousCommitSHA = '';
 let previousUpdatedAt = '';
 let previousCommitUser = ''; 
-const owner = 'IDAGO-OG;
+const owner = 'IDAGO-OG';
 const repo = 'NerroBot-MD';
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   const datas = global
