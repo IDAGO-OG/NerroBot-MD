@@ -80,5 +80,5 @@ Conoce a al **Desarrollador** que ha aportado al desarrollo de este proyecto. Su
 <a href="https://github.com/IDAGO-OG/NerroBot-MD//graphs/contributors">  <img src="https://github.com/IDAGO-OG/NerroBot-MD/blob/master/2cec17859f8bd38d8e7bf12be7e1c354.jpg?repo=IDAGO-OG/Nerro-Bot-MD" /> 
 </a>
 
-#### `TheDagos-Bot-MD ~ By Diego-OG`
+#### `NerroBot-MD ~ By Diego-OG`
 
