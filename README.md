@@ -41,8 +41,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ▪︎ pkg install ffmpeg -y
 ▪︎ pkg install imagemagick -y
 ▪︎ pkg install yarn
-▪︎ git clone https://github.com/IDAGO-OG/Dagos-Bot-MD
-▪︎ cd Dagos-Bot-MD
+▪︎ git clone https://github.com/IDAGO-OG/NerroBot-MD
+▪︎ cd NerroBot-MD
 ▪︎ yarn install 
 ▪︎ npm update
 ▪︎ npm start
